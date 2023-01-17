@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced\People]
+"PeopleBand"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"ShowCortanaButton"=dword:00000000
+"ShowTaskViewButton"=dword:00000000
+"ShowSecondsInSystemClock"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
+"SearchboxTaskbarMode"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\PenWorkspace]
+"PenWorkspaceButtonDesiredVisibility"=dword:00000000
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\TabletTip\1.7]
+"TipbandDesiredVisibility"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"WallpaperStyle"="10"
