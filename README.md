@@ -1,6 +1,3 @@
-OlaiOS V2
-
-
 ![Fancy logo](./Content/Images/dark.png#gh-dark-mode-only)
 ![Fancy logo](./Content/Images/light.png#gh-light-mode-only)
 
