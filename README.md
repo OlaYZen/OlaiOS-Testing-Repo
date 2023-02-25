@@ -1,6 +1,9 @@
 ![Fancy logo](./Content/Images/dark.png#gh-dark-mode-only)
 ![Fancy logo](./Content/Images/light.png#gh-light-mode-only)
 
+THIS CODE IS NOT FINISHED
+
+
 Experience the ultimate gaming performance with OlaiOS - the perfect operating system for gamers and power users. Built on the solid foundation of Windows 10, OlaiOS takes everything you love about Windows and elevates it to the next level. Its lightweight design ensures lightning-fast speed, smooth responsiveness and energy-efficiency, providing you with the perfect gaming environment. The custom game mode feature allows you to fully immerse yourself in your favorite games with enhanced performance and optimized settings. The user interface is intuitive and streamlined, making it easy for anyone to use. Upgrade your gaming experience with OlaiOS, whether you're a hardcore gamer or just looking for a better operating system.
 
 Reasons to switch to OlaiOS
